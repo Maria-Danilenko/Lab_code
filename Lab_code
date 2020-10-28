@@ -11,7 +11,7 @@ int main()
 
 	while (x <= 6)
 	{
-		y = cos(pow(x, 2)) + pow(sin(x), 2) + 2;
+		y = cos(pow(x, 2)) + pow(sin(x), 2) + 3;
 		cout << setw(10) << "\nY = " << y << setw(10);
 		x = x + 0.5;
 	}
