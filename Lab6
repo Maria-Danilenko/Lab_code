@@ -15,5 +15,5 @@ int main()
 	{
 		y += n;
 	}
-	cout << cos(y * x) + 5 + pow(x, 2);
+	cout <<"Z = " <<cos(y * x) + 5 + pow(x, 2);
 }
